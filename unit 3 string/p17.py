@@ -4,6 +4,8 @@ b="9⁸".isdecimal() # True (superscript digit)
 
 e="12345".isdigit()
 f="9⁸".isdigit()
+# f="9⁸".isdecimal() if this then false
+
 
 
 print('is digit e',e)

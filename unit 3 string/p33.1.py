@@ -2,12 +2,9 @@
 # Variable declaration
 str = 'Javatpoint'
 # Calling function
-str1 = str.ljust(20,"*") #Javatpoint**********
+str = str.ljust(20,"*")
 # Displaying result
-print(str1)
-str2 = str.rjust(20,"*") #**********Javatpoint
+print(str)
+rjust_str = str.rjust(20,"*")
 # Displaying result
-print(str2)
-
-
 print(str)

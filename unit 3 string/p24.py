@@ -1,4 +1,5 @@
 # Title case strings:
+# CAPITALIZE ALL FIRST LETTER OF WORDS IS CAPITAL
 print("This Is A Title Case String".istitle())   # True
 print("Python Is Awesome".istitle())             # True
 

@@ -5,7 +5,7 @@ str = "Welcome"
 str2 = "Welc9ome"
 str3 = "Welc*ome"
 # Calling function
-str22 = str.isalnum()
+str22 = str.isalnum() #alp + num
 str23 = str2.isalnum()
 str24 = str3.isalnum()
 # Displaying result

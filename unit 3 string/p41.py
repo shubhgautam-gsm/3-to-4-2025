@@ -1,6 +1,6 @@
 # Python zfill(width) method # Declaring variables
-text="Zfill Example"
+text="4560"
 # Calling Function
-str2= text.zfill(20)
+str2= text.zfill("*",20)
 # Displaying result
 print(str2)

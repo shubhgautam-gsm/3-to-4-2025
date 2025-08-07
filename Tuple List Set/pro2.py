@@ -1,6 +1,8 @@
 data = ["Rajkot", "Surat", "Baroda", "Bhuj", "Jamnagar", "Ahamdabad", "Morbi"]
 print(data)
-data.insert(3,'jd')
+data.insert(3,'kutch')
+# data.extend(['kutch','wapi'])
+
 print(data)
 data.remove('Surat')
 print(data)

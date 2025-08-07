@@ -3,9 +3,9 @@
 # Start with a letter (a-z, A-Z) or an underscore (_).
 # The isidentifier() method checks if a string meets these criteria.
 # Strings that start with numbers or contain special characters are not valid identifiers.
-str1 = "abc_123"
-str2="12abc"
-
+str1 = "_abc123" #_jay
+str2="12abc" #A9
+#naming rules spec($%^) x , space x ,starting numbers x
 # Calling function
 str3 = str1.isidentifier()
 str4 = str2.isidentifier()

@@ -6,3 +6,4 @@ str2 = str.isnumeric()
 # Displaying result
 print(str2)
 print("½".isnumeric())  # True
+# print("½".isdigit())  # false
